@@ -27,7 +27,7 @@ Open CV Python :  [see](http://opencv-python-tutroals.readthedocs.io/en/latest/)
 
 ###Demonstration
 
-<img src="https://https://github.com/arjunKumbakkara/ObjectTrackingOpenCV/blob/main/objectTrack.gif">
+<img src="https://github.com/arjunKumbakkara/ObjectTrackingOpenCV/blob/main/objectTrack.gif">
 
 
 
